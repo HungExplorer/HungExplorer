@@ -7,7 +7,7 @@
 
 # 📝 GitHub Stats:
 🗝️ My GitHub highlights my personal projects, ranging from small utilities to more complex applications. Some of the key projects include Creating the first Website, Classifying between the singing and talking by using CNN model, Making an attendance system using face recognition and uploading data on Adafruit and many many more. I'm looking forward to expanding this portfolio as I tackle more ambitious challenges.🚩</br> </br>
-![](https://github-readme-stats.vercel.app/api?username=HungExplorer&theme=radical&hide_border=false&include_all_commits=false&count_private=false) <br/>
+![](https://github-readme-stats.vercel.app/api?username=HungExplorer&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HomieHung&icon=0&color=0)](https://visitcount.itsvg.in)
