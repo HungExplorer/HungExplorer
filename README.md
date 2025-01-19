@@ -7,11 +7,7 @@
 
 # 📝 GitHub Stats:
 🗝️ My GitHub highlights my personal projects, ranging from small utilities to more complex applications. Some of the key projects include Creating the first Website, Classifying between the singing and talking by using CNN model, Making an attendance system using face recognition and uploading data on Adafruit and many many more. I'm looking forward to expanding this portfolio as I tackle more ambitious challenges.🚩</br> </br>
-![](https://github-readme-stats.vercel.app/api?username=HungExplorer&theme=radical&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-contributor-stats.vercel.app/api?username=HungExplorer&limit=5&theme=radical&combine_all_yearly_contributions=true)<br/>
-
-### ✒️ Random Dev Quote
-To be honest, this is just a random quote ... (👉ﾟヮﾟ)👉 </br> </br>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=HungExplorer&theme=radical&hide_border=false&include_all_commits=false&count_private=false) <br/>
 
 ### 🔝 Top Contributed Repo
 🛜 I came across this online and thought it would be a good way to mark my project, so I decided to leave it here. (。・ω・。)
