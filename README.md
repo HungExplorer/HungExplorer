@@ -14,7 +14,8 @@ To be honest, this is just a random quote ... (👉ﾟヮﾟ)👉 </br> </br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-I came across this online and thought it would be a good way to mark my project, so I decided to leave it here. (。・ω・。)
+🛜 I came across this online and thought it would be a good way to mark my project, so I decided to leave it here. (。・ω・。)
+</br> </br>
 ![](https://github-contributor-stats.vercel.app/api?username=HungExplorer&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
