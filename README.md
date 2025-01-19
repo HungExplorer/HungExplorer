@@ -1,8 +1,5 @@
 # Hi there 👋
 💫 My name is Doan Quoc Hung, but you can call me John 😄. I am a Vietnamese college student currently studying Computer Science at the Vietnamese-German University 🏫. This GitHub page will document my journey as I explore and discover a field within IT that truly captures my interest 🔭. I am currently delving into various areas such as Artificial Intelligence, Cybersecurity, Web Development, and many more 🧑‍💻. I hope that in the future, when I look back at this GitHub page, I will see how much I have grown. Until then, see you, my more mature self!✨ 
-<div align="center">
-  <img src="https://github.com/HungExplorer/HungExplorer/blob/main/Profile.jpg" alt="Image_Profile" width="400" />
-</div>
 
 # 💻 Tech Stack:
 ✍️ In my two years of studying at university, I have learned programming languages such as C, C++, and Python. I have also gained experience using Git and GitHub to store and manage my projects. Additionally, I have worked with platforms like Google Cloud to access tools such as Google Maps or implement machine learning projects, and I have used Canva for designing presentations. Nevertheless, I constantly remind myself to keep learning, as there is still so much left to discover. Hopefully, I will be able to access more resources and materials to further broaden my horizons and deepen my knowledge. 📓 </br> </br>
